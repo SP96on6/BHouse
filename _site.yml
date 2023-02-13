@@ -1,6 +1,7 @@
-name: "my-website"
+name: "Shelley Point 96 on 6th"
+output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Shelley Point 96 on 6th"
   left:
     - text: "Home"
       href: index.html
