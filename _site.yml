@@ -5,5 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Todos"
+      href: todo.html
+    - text: "Oven"
+      href: oven.html

@@ -1,0 +1,34 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: kate
+    css: Generic.css
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+***
+
+### Hotel and Spa
+
+* Shelley Point has an amazing hotel with a spa (book in advance!), as well as a lovely swimming pool area (you are welcome to use it, provided it is not too full - peak times they might ask if you are hotel residents).
+
+* There is also a great pizza bar called Dorotheas (opens 11:00 - 18:00) which has amazing pizzas (really), cocktails, beer on tap and most weekends live music. 
+
+* There's also a Cattle Baron restaurant at the top, with a lovely view and nice menu.
+
+* We highly recommend going to Alegria restaurant (as you enter St. Helena Bay), Gaatjie & Leeto (Paternoster) as well.
+
+* For the more active, there's a golf course, two tennis courts and lawn bowls (150m from the house) - for each you must please book at the golf club at the hotel.
+
+* Shelley Point Kayaking is also a must - you often see dolfins, sunfish and if you are lucky a whale.
+
+
+
+
+
+
+

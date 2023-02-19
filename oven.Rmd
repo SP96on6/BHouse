@@ -1,0 +1,26 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: kate
+    css: Generic.css
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+***
+
+## Gas oven
+
+We have a small, functional gas oven in the kitchen.
+
+Pelase
+
+
+<video width="320" height="240" controls>
+  <source src="img/Oven.mp4" type="video/mp4">
+</video>
+
+
