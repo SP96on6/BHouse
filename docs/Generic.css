@@ -42,5 +42,22 @@ h4 {
 font-family: "Garamond", serif;
 }
 
+ul,
+ol,
+dl,
+li,
+p{
+      font-size: 1.1em;
+}
 
+
+a {
+  color: darkred;
+  font-weight: bold;
+}
+
+dd,
+dt{
+      font-size: 0.9em;
+}
 body {background-color: rgb(201, 218, 245);}

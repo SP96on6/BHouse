@@ -5,7 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "House Information"
+      href: Information.html
+    - text: "House Rules"
+      href: HouseRules.html
     - text: "Todos"
       href: todo.html
     - text: "Oven"
       href: oven.html
+    - text: "Blinds"
+      href: blinds.html

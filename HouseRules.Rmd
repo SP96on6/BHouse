@@ -1,0 +1,34 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: kate
+    css: Generic.css
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+***
+
+## House Rules
+
+* No loud music
+    
+  ......As it is an estate - owners may complain to security if music is loud.
+
+* Please notify us if you intend having pets in the house well in advance - security will not let you in without express notification of pets.
+
+* No smoking in the house allowed at all.
+
+* No guests allowed to sleep over unless we are notified in advance. 
+
+  ......An extra charge of R1000 per guest applies.
+  
+  ......A maximum of 6 adults (above 16 years) allowed in the house.
+  
+  
+
+
+    

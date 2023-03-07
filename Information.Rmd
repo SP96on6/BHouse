@@ -1,0 +1,116 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: kate
+    css: Generic.css
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+***
+
+## House Information
+
+
+* __Wifi:__
+
+  ......Free uncapped fibre wifi with UPS.
+  
+  ......Username: Shelley966th
+  
+  ......Password: SHP96thwifi123
+
+* __Smart TVs__:
+
+  ......Please log in to your own Netflix / Youtube / Disney account.
+
+  ......Feel free to use DVD player in the loft - great for entertaining kids.
+
+* __Outside bedroom:__ 
+
+  ......key is under stairs on the key holder.
+
+* __Wood:__ 
+
+  ......we supply a few pieces of wood to get you started. Please buy more wood from Spar or the OK supermarket.
+
+
+* __Bathtowels:__ 
+
+  ......unfortunately not for beach use.
+
+* __Beach Sand__: 
+
+  ......Please use tap outside house to wash off beach sand and not the showers or bathtub. Drains get clogged with sand easily.
+
+* __Induction stove:__
+
+  ......Put setting on P9 to boil water
+
+  ......When cooking food with the appliance, please put the induction stove (take care to switch off stove) so that residue oil or fat spill against the __glass slab__ and not the wall.
+
+  ......leave glass slab in upright position at all times, lowering it can break it.
+
+
+* __Small glass convection oven__
+
+  ......quick and convenient to use: __Please do not put hot lid on painted surface.__
+
+* __Gas oven__: see Oven tab above
+
+* __Dishwasher:__
+
+  ......Put on 35 degrees (far left option) OR quick shine (58 min 60 degrees)
+Please only use dish washing pods. If you add sunlight or other soap, you can damage the machine and cause a big mess.
+
+
+
+* __Washing machine:__
+
+  ......use own washing liquid (available at SPAR) and pour it into left side (handle under "direct drive")
+  
+  ......press start button
+  
+  ......turn the button clock-wise till you see 28 on the digital screen.
+
+
+  ......Press play.
+
+  For an extra spin:
+  
+  ......wait till cycle mentioned above is finished, then:
+  
+  ......press start button
+  
+  ......press spin on touch screen (right) till you see 15 on the digital screen.
+  
+  ......press play
+
+  ......Please use only clothes washing soap!
+
+
+* __Garden Sprinkler:__
+
+  ......Take note that the garden sprinkler system goes of on every even calender day at 3 am.
+  
+  
+* __Alarm__:
+
+  ......It is a 24 hour security estate and VERY safe, but for extra peace of mind use the alarm.
+  
+  ...... When checking out, please switch on the alarm (lock key) - hold in for 2 seconds until you hear a beep.
+  
+  ......the single dot switches on a stay alarm (outside beams and garage is on, you can roam in the house).
+  
+  ......double dot is for panic.
+  
+* __Braai Area__
+
+
+<video width="320" height="240" controls>
+  <source src="img/Braai.mp4" type="video/mp4">
+</video>
+

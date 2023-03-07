@@ -1,0 +1,30 @@
+---
+title: ""
+output:
+  html_document:
+    theme: sandstone
+    highlight: kate
+    css: Generic.css
+    fig_width: 7
+    fig_height: 6
+    fig_caption: true
+---
+
+***
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Keys pickup
+
+
+Kindly pick up the keys at the Golden Mile gate. We will have notified them of your intended arrival.
+
+* Here is the Google maps link: https://maps.app.goo.gl/357cA4x2VbRyN9pk6
+
+When you leave, please put the alarm on and drop the keys off at the security gate.
+
+
+
+
