@@ -50,7 +50,9 @@ output:
 
   ......Put setting on P9 to boil water
 
-  ......When cooking food with the appliance, please put the induction stove (take care to switch off stove) so that residue oil or fat spill against the __glass slab__ and not the wall.
+  ......When cooking food with the appliance, please put the induction plate on the stove (take care to switch off stove) so that residue oil or fat spill against the __glass slab__ and not the wall.
+
+  ......please do not use utensils, like forks, on the pans - use the provided spatulas.
 
   ......leave glass slab in upright position at all times, lowering it can break it.
 
