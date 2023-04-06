@@ -16,7 +16,7 @@ output:
 
 We have a small, functional gas oven in the kitchen.
 
-Pelase
+Please see video below - you need to hold the nob in for about 20 seconds as it lights.
 
 
 <video width="320" height="240" controls>
