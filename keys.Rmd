@@ -18,13 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Keys pickup
 
+* Pick up the keys at the [Golden Mile security gate](https://goo.gl/maps/8kTsHdgG5Z81pvuw8). We will have notified security of your intended arrival.
 
-Kindly pick up the keys at the Golden Mile gate. We will have notified them of your intended arrival.
+* __Opening the front door:__
 
-* Here is the Google maps link: https://maps.app.goo.gl/357cA4x2VbRyN9pk6
+  ......Turn key in the opposite direction (clock-wise) and give it a good push
 
-When you leave, please put the alarm on and drop the keys off at the security gate.
+* __When you leave, please put the alarm on and drop the keys off at the security gate.__
 
-
+***
 
 
