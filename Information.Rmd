@@ -14,6 +14,9 @@ output:
 
 ## House Information
 
+* __Front Door:__
+
+  ......Turn key in the opposite direction (clock-wise) and give it a good push
 
 * __Wifi:__
 
@@ -48,7 +51,7 @@ output:
 
 * __Wood:__ 
 
-  ......we will try supply a few pieces of wood to get you started. Please buy more wood from Spar or the OK supermarket and leave leftover wood for the next group - pay forward the wood-love...
+  ......we will try supply a few pieces of wood (cannot guarantee) to get you started. Please buy more wood from [Spar](https://goo.gl/maps/ukLPuzQC6ErWaXut5s) or the OK supermarket and leave leftover wood for the next group - pay forward the wood-love...
 
 
 * __Bathtowels:__ 
