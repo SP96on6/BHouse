@@ -14,17 +14,22 @@ output:
 
 ## House Information
 
+* __Address:__
+
+  ......[96 6th Avenue, Shelley Point Estate](https://goo.gl/maps/jKLYZdVhVG5Jo2Av8)
+
+
 * __Front Door:__
 
   ......Turn key in the opposite direction (clock-wise) and give it a good push
 
 * __Wifi:__
 
+  ......__Username__: Shelley966th
+  
+  ......__Password__: SHP96thwifi123
+
   ......Free uncapped fibre wifi with UPS.
-  
-  ......Username: Shelley966th
-  
-  ......Password: SHP96thwifi123
   
   ......2.4 GHZ has stronger, but slightly slower signal
   
