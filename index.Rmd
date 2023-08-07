@@ -16,11 +16,25 @@ output:
 
 ### Hope you enjoy your stay
 
-#### Contact owners: Marlie, 0794919273 | Nico: 0741042365
+#### Owners: Marlie, 0794919273 | Nico: 0741042365
 
 #### Contact Security: (022) 742 1888
 
 ***
 
 ![](img/aerial_txt.png)
+
+* [Key Pickup Info](keys.html)
+
+* [House Information](Information.html)
+
+* [To dos!](todo.html)
+
+* [House Rules](HouseRules.html)
+
+* [Appliances](appl.html)
+
+* [Gas stove and gas oven](oven.html)
+
+* [Outdoor blinds](blinds.html)
 
