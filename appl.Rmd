@@ -16,34 +16,57 @@ output:
 
 If you intend using either of the appliances, please only use soap that is appropriate for each:
 
+### Coffee Machine
+
+<iframe  width="425" height="344" 
+src="https://dai.ly/k4g5EOwyKebunDBTeyo" 
+frameborder="0" allowfullscreen></iframe>
+
+If above window fails for video, [click here](https://dai.ly/k4g5EOwyKebunDBTeyo)
+
+
 ### Dishwasher
+
+......Put on 35 degrees (far left option) OR quick shine (58 min 60 degrees)
+Please only use dish washing pods. If you add sunlight or other soap, you can damage the machine and cause a big mess.
+
 
 ![](img/dw.jpg){width=35%}
 
-  ......Put on 35 degrees (far left option) OR quick shine (58 min 60 degrees)
-Please only use dish washing pods. If you add sunlight or other soap, you can damage the machine and cause a big mess.
+***
+
+### Gas oven
+
+We have a small, functional gas oven in the kitchen.
+
+Please see video below - you need to hold the nob in for about 20 seconds as it lights.
+
+<video width="320" height="240" controls>
+  <source src="img/Oven.mp4" type="video/mp4">
+</video>
+
 
 ***
 
 ### Washing machine
+
+### Using the washing machine
+
+* __Washing machine:__
+
+  ......use own washing liquid (available at SPAR) and pour it into left side - see below image (handle under "direct drive")
+  
+  ......press start button
+  
+  ......turn the button clock-wise till you see 28 on the digital screen.
+
+  ......Press play.
 
 ![](img/aer1.jpg){width=35%}
 
 
 ![](img/aer2.jpg){width=35%}
 
-### Using the washing machine
-
-* __Washing machine:__
-
-  ......use own washing liquid (available at SPAR) and pour it into left side (handle under "direct drive")
-  
-  ......press start button
-  
-  ......turn the button clock-wise till you see 28 on the digital screen.
-
-
-  ......Press play.
 
   For an extra spin:
   

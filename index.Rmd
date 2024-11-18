@@ -20,21 +20,22 @@ output:
 
 #### Contact Security: (022) 742 1888
 
+#### WIFI password: SHP96thwifi123
+
+#### Key Pickup Info [Click Here](keys.html)
+
+#### Home Location: __96 6th Avenue__ [Click here](https://maps.app.goo.gl/FxTFLhurV5yGKRxf6)
+
+***
+
+#### Appliance Details: [Click Here](appl.html) 
+
+#### House Information: [Click Here](Information.html)
+
+#### House Rules: [Click Here](HouseRules.html)
+
+#### To dos: [Click Here](todo.html)
+
 ***
 
 ![](img/aerial_txt.png)
-
-* [Key Pickup Info](keys.html)
-
-* [House Information](Information.html)
-
-* [To dos!](todo.html)
-
-* [House Rules](HouseRules.html)
-
-* [Appliances](appl.html)
-
-* [Gas stove and gas oven](oven.html)
-
-* [Outdoor blinds](blinds.html)
-

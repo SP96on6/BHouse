@@ -35,7 +35,6 @@ output:
   
   ......Name ending in XXX_Ext is from the Wifi booster in the main bedroom - allowing access there and in the back room.
 
-
 * __Front window shutters__
 
   ......opening and closing is a two-man operation.
@@ -131,7 +130,6 @@ Please only use dish washing pods. If you add sunlight or other soap, you can da
   ......double dot is for panic.
   
 * __Braai Area__
-
 
 <video width="320" height="240" controls>
   <source src="img/fire.mp4" type="video/mp4">
