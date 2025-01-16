@@ -21,8 +21,12 @@ knitr::opts_chunk$set(echo = TRUE)
 * Pick up the keys at the [Golden Mile security gate](https://goo.gl/maps/8kTsHdgG5Z81pvuw8). We will have notified security of your intended arrival.
 
 * __Opening the front door:__
+  
+  ...Hold the unlock button on the remote a few seconds until alarm is deactivated.
+  
+  ....If alarm is on, you will see a red button above garage (little red light)
 
-  ......Turn key in the opposite direction (clock-wise) and give it a good push
+  ......Turn key in the **opposite direction** (clock-wise) and give it a good push
 
 * __When you leave, please put the alarm on and drop the keys off at the security gate.__
 

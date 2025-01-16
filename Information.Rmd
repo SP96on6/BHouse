@@ -21,7 +21,18 @@ output:
 
 * __Front Door:__
 
-  ......Turn key in the opposite direction (clock-wise) and give it a good push
+  ......Turn key in the **opposite direction** (clock-wise) and give it a good push
+  
+  NOTE:: If front door is a bit hard to open, you can loosen / tighten it up easily.
+  
+  Behind the door there is a hanger, reach above and you will see an orange screwdriver.
+  
+  Place it in the opening seen below and turn it to loosen / tighten. 
+  
+  ![](img/Door.jpg){width=20%}
+  
+  PLEASE return the screwdriver again thanks!
+
 
 * __Wifi:__
 
@@ -40,8 +51,6 @@ output:
   ......opening and closing is a two-man operation.
   
   ......open from inside - unlatch and clip in outside
-  
-  ......When you leave, please close the shutters
 
 * __Smart TVs__:
 
@@ -60,26 +69,16 @@ output:
 
 * __Bathtowels:__ 
 
-  ......unfortunately not for beach use.
+  ......unfortunately not for beach use **at all**.
 
 * __Beach Sand__: 
 
   ......Please use tap outside house to wash off beach sand and not the showers or bathtub. Drains get clogged with sand easily.
 
-* __Induction stove:__
 
-  ......Put setting on P9 to boil water
+* __Airfryer__
 
-  ......When cooking food with the appliance (some of the pans work on it), please put the induction plate on the stove (take care to switch off stove) so that residue oil or fat spill against the __glass slab__ and not the wall.
-
-  ......please do not use utensils, like forks, on the pans - use the provided spatulas. Please help us - guests have inexplicably scraped it in the past.
-
-  ......__Always__ leave glass slab in upright position at all times, lowering it can break it.
-
-
-* __Small glass convection oven__
-
-  ......quick and convenient to use: __Please do not put hot lid on painted surface.__
+  ......simple to use and effective - plenty of Youtube ideas for cooking with it.
 
 * __Gas oven__: see Oven tab above
 
@@ -129,9 +128,4 @@ Please only use dish washing pods. If you add sunlight or other soap, you can da
   
   ......double dot is for panic.
   
-* __Braai Area__
-
-<video width="320" height="240" controls>
-  <source src="img/fire.mp4" type="video/mp4">
-</video>
 
